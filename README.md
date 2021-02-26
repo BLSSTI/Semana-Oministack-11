@@ -7,7 +7,7 @@ Projeto incrível realizado na semana OmniStack utilizando tecnologias fantásti
 - [X] React JS
 - [X] React Native
 
-################///#################///#############///
+
 
 Bibliotecas:
 
