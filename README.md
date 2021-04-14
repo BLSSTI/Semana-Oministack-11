@@ -1,5 +1,5 @@
 
-#Be The Hero
+###Be The Hero
 
 Projeto incrível realizado na semana OmniStack utilizando tecnologias fantásticas, sendo elas:
 
